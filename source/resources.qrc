@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/application-exit.svg</file>
+        <file>images/document-open.svg</file>
+        <file>images/emblem-choose.svg</file>
+        <file>images/list.svg</file>
+        <file>images/mainwindow-icon.svg</file>
+        <file>images/bookmark.png</file>
+        <file>images/pencil.png</file>
+        <file>images/qt-logo.png</file>
+    </qresource>
+</RCC>
